@@ -1,0 +1,20 @@
+{
+  "recommendations": [
+    //Themes
+    "robertohuertasm.vscode-icons",
+    "azemoh.one-monokai",
+    // Extentions
+    "ms-vscode.csharp",
+    "ms-vscode.PowerShell",
+    "ms-vscode.cpptools",
+    "PeterJausovec.vscode-docker",
+    "donjayamanne.python",
+    "Ionide.Ionide-fsharp",
+    "Ionide.Ionide-Paket",
+    "Ionide.Ionide-FAKE",
+    "eg2.tslint",
+    "msjsdiag.debugger-for-chrome",
+    "samverschueren.final-newline",
+    "DmitryDorofeev.empty-indent"
+  ]
+}
