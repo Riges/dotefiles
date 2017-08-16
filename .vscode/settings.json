@@ -14,6 +14,7 @@
         "**/out": true,
         "tslint-rules/**/*.js": true
     },
+    "files.insertFinalNewline": true,
     "search.exclude": {
         "**/node_modules": true,
         "**/dist": true,
