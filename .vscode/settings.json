@@ -3,6 +3,7 @@
     "editor.fontLigatures": true,
     "editor.tabSize": 2,
     "editor.wordWrap": "on",
+    "editor.wordWrapColumn": 120,
     "files.autoSave": "off",
     "files.exclude": {
         "**/.git": true,
