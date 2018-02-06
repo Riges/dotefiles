@@ -7,6 +7,17 @@
     "ms-vscode.csharp",
     "ms-vscode.PowerShell",
     "ms-vscode.cpptools",
+    "ms-vscode.azure-account",
+    "ms-vscode.azurecli",
+    "ms-vscode.vscode-azureextensionpack",
+    "ms-mssql.mssql",
+    "msazurermtools.azurerm-vscode-tools",
+    "ms-azuretools.vscode-azurestorage",
+    "ms-azuretools.vscode-cosmosdb",
+    "ms-azuretools.vscode-azureappservice",
+    "ms-azuretools.vscode-azurefunctions",
+    "ms-kubernetes-tools.vscode-kubernetes-tools",
+    "VisualStudioOnlineApplicationInsights.application-insights",
     "PeterJausovec.vscode-docker",
     "donjayamanne.python",
     "Ionide.Ionide-fsharp",
@@ -16,6 +27,8 @@
     "msjsdiag.debugger-for-chrome",
     "samverschueren.final-newline",
     "DmitryDorofeev.empty-indent",
-    "DavidAnson.vscode-markdownlint"
+    "DavidAnson.vscode-markdownlint",
+    "esbenp.prettier-vscode",
+    "evilz.vscode-reveal"
   ]
 }

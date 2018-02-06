@@ -4,6 +4,16 @@
     "editor.tabSize": 2,
     "editor.wordWrap": "on",
     "editor.wordWrapColumn": 120,
+    // Set the default
+    "editor.formatOnSave": false,
+    "prettier.printWidth": 120,
+    // Enable per-language
+    "[javascript]": {
+        "editor.formatOnSave": true
+    },
+    "[typescript]": {
+        "editor.formatOnSave": true
+    },
     "files.autoSave": "off",
     "files.exclude": {
         "**/.git": true,
