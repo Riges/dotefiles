@@ -3,10 +3,14 @@
     "editor.fontLigatures": true,
     "editor.tabSize": 2,
     "editor.wordWrap": "on",
-    "editor.wordWrapColumn": 120,
+    "editor.wordWrapColumn": 150,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    },
+    "prettier.printWidth": 150,
+    "prettier.singleQuote": true,
     // Set the default
     "editor.formatOnSave": false,
-    "prettier.printWidth": 120,
     // Enable per-language
     "[javascript]": {
         "editor.formatOnSave": true
@@ -14,6 +18,7 @@
     "[typescript]": {
         "editor.formatOnSave": true
     },
+    "npm.enableScriptExplorer": true,
     "files.autoSave": "off",
     "files.exclude": {
         "**/.git": true,
@@ -32,5 +37,8 @@
         "**/out": true
     },
     "workbench.colorTheme": "One Monokai",
-    "workbench.iconTheme": "vscode-icons"
+    "workbench.iconTheme": "vscode-icons",
+    "explorer.confirmDelete": false,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "team.showWelcomeMessage": false
 }
