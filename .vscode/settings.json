@@ -11,13 +11,18 @@
     "prettier.singleQuote": true,
     "prettier.semi": false,
     // Set the default
-    "editor.formatOnSave": false,
+    "editor.formatOnSave": true,
     // Enable per-language
     "[javascript]": {
         "editor.formatOnSave": true
     },
     "[typescript]": {
         "editor.formatOnSave": true
+    },
+    "[json]": {
+        "editor.quickSuggestions": {
+            "strings": true
+        }
     },
     "npm.enableScriptExplorer": true,
     "files.autoSave": "off",
@@ -41,5 +46,7 @@
     "workbench.iconTheme": "vscode-icons",
     "explorer.confirmDelete": false,
     "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
-    "team.showWelcomeMessage": false
+    "team.showWelcomeMessage": false,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "javascript.updateImportsOnFileMove.enabled": "always"
 }
