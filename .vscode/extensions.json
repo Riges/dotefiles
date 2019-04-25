@@ -2,7 +2,7 @@
   "recommendations": [
     //Themes
     "azemoh.one-monokai",
-    "robertohuertasm.vscode-icons",
+    "vscode-icons-team.vscode-icons",
     // Extentions
     "christian-kohler.npm-intellisense",
     "CoenraadS.bracket-pair-colorizer",
