@@ -25,5 +25,8 @@ antigen bundles <<EOBUNDLES
     zsh-users/zsh-completions
     zsh-users/zsh-syntax-highlighting
 EOBUNDLES
-antigen theme robbyrussell/oh-my-zsh themes/agnoster
+antigen theme romkatv/powerlevel10k
 antigen apply
+
+#POWERLINE 10K
+POWERLEVEL9K_DISABLE_CONFIGURATION_WIZARD=true
