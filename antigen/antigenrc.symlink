@@ -1,0 +1,29 @@
+antigen use oh-my-zsh
+antigen bundles <<EOBUNDLES
+    brew
+    docker
+    docker-compose
+    dotnet
+    encode64
+    gcloud
+    git
+    gitignore
+    gnu-utils
+    helm
+    history
+    kubernetes
+    kubectl
+    node
+    npm
+    npx
+    nvm
+    osx
+    screen
+    ubuntu
+    vscode
+    yarn
+    zsh-users/zsh-completions
+    zsh-users/zsh-syntax-highlighting
+EOBUNDLES
+antigen theme robbyrussell/oh-my-zsh themes/agnoster
+antigen apply
