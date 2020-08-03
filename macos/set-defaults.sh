@@ -1,4 +1,10 @@
 #!/usr/bin/env bash
+
+if test ! "$(uname)" = "Darwin"
+  then
+  exit 0
+fi
+
 # Sets macOS defaults.
 # The original idea from https://mths.be/macos - https://github.com/mathiasbynens/dotfiles/blob/main/.macos
 #
