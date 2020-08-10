@@ -1,4 +1,5 @@
 antigen/antigen.zsh
+zsh/antigen.zsh
 git/gitconfig.local.symlink
 
 ## Databases

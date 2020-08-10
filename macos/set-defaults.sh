@@ -5,6 +5,8 @@ if test ! "$(uname)" = "Darwin"
   exit 0
 fi
 
+exit 0
+
 # Sets macOS defaults.
 # The original idea from https://mths.be/macos - https://github.com/mathiasbynens/dotfiles/blob/main/.macos
 #
